@@ -24,11 +24,11 @@ Below are screenshots of my page and code for review:
 
 ### Screenshot of the Budget Tracker page ###
 
-![Screenshot of the website](assets/budget.PNG)
+![Screenshot of the website](images/budget.PNG)
 
 ### Screenshot of the Service-Worker code ###
 
-![Screenshot of the HTML Code](assets/serverworker.PNG)
+![Screenshot of the HTML Code](images/serverworker.PNG)
 
 ## Built With ##
 
