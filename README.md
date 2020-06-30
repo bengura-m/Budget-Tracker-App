@@ -28,7 +28,7 @@ Below are screenshots of my page and code for review:
 
 ### Screenshot of the Service-Worker code ###
 
-![Screenshot of the HTML Code](images/serverworker.PNG)
+![Screenshot of the Service-Worker Code](images/serviceworker.PNG)
 
 ## Built With ##
 
